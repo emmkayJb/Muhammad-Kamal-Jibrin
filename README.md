@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmkayJb
-- 👀 I’m interested in Enviromental effects new technologies
+- 👀 I’m interested in Enviromental effects of new technologies
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on SQL,R, phyton
 - 📫 How to reach me @emmkayJb
